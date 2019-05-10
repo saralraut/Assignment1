@@ -1,0 +1,186 @@
+.Topic{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border: solid;
+	border-color: black;
+	font-size: 30px;
+	background-color:rgb(213, 223, 239);
+	color: rgb(6, 13, 25);
+	padding: 20px;
+	max-width: 100%;
+}
+.container{
+	display: flex;
+	color: rgb(6, 13, 25);
+	flex-direction: row;
+	font-size: 30px;
+	border: solid;
+	border-color: black;
+	background-color: rgb(162, 183, 219);
+	padding: 20px;
+	justify-content: space-around;
+	max-width: 100%;
+}
+.flex{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color:rgb(139, 170, 224);
+	max-width: 100%;
+	color: rgb(6, 13, 25);
+	text-align: center;
+}
+.phot{
+	max-height: 100%;
+	max-width: 99%;
+	border: solid;
+	border-color: black;
+}
+.new{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	background-color:rgb(139, 170, 224);
+	width: 100%;
+	color: rgb(6, 13, 25);
+	text-align: center;
+}
+.foot{
+	
+	border:solid;
+	font-size: 30px;
+	padding: 20px;
+	color:rgb(6, 13, 25);
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-facebook {
+	background : #3B5998;
+	color: white;
+}
+
+.fa-google {
+	background: #dd4b39;
+	color: white;
+
+}
+
+.fa-youtube {
+	background: #bb0000;
+	color: white;
+}
+
+.upside{
+	text-align: center;
+	color: #130626;
+	
+}
+
+.review {
+	border:solid;
+}
+
+.review1 h1{
+	color: #0a060f;
+	padding-left: 10px;
+	font-size: 40px;
+
+
+}
+
+.review1 p{
+	color: #232226;
+   font-size: 70%;
+	
+
+
+}
+
+.review2 h1{
+	color: #0a060f;
+	padding-left: 10px;
+	font-size: 40px;
+}
+
+.review2 p{
+	color: #232226;
+   font-size: 70%;
+	
+}
+
+.tutorials {
+	border:solid;
+}
+
+.tuts{
+	text-align: center;
+	color: #130626;
+	
+
+}
+
+.jobs {
+	text-align: center;
+	color: #130626;
+	font-size: 20px;
+}
+
+.jobimage{
+	max-height: 100%;
+	max-width: 99%;
+	border: solid;
+	border-color: black;
+	align-items: right;
+
+}
+
+/*.diff p {
+
+	color: #130626;
+	font-size: 20px;
+} */
+
+.main {
+	color: #bf8376
+	font-size: 20px; ;
+}
+
+.qns {
+	color:#070616;
+	font-family: georgian;
+	font-style: bold;
+}
+
+.ans {
+	color:#0c0c19;
+	font-family: georgian;
+	font-style: bold;
+	font-size: 20px;
+}
+
+table{
+	 width: 70%;
+	border:1px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	font-size: 20px;
+	border:1px solid black;
+	border-collapse: collapse;
+}
+
+td {
+	font-size: 20px;
+	border:1px solid black;
+	border-collapse: collapse;
+}
