@@ -61,12 +61,12 @@
 }
 /*source_code-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons*/
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
 }
 /*source_code-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_social_media_buttons*/
 .fa-facebook {
@@ -94,6 +94,7 @@
 .review {
 	border:solid;
 	background-color: rgb(162, 183, 219);
+	font-size: 20px;
 }
 
 .review1 h1{
@@ -106,8 +107,8 @@
 
 .review1 p{
 	color: #232226;
-   font-size: 70%;
-  
+	font-size: 70%;
+
 	
 
 
@@ -121,7 +122,7 @@
 
 .review2 p{
 	color: #232226;
-   font-size: 70%;
+	font-size: 70%;
 	
 }
 
@@ -153,30 +154,26 @@
 	max-width: 99%;
 	border: solid;
 	border-color: black;
-	align-items: right;
-
 }
 
 .main {
-	color: #bf8376
-	font-size: 20px; ;
+	color: #bf8376;
+	font-size: 20px; 
 }
 
 .qns {
 	color:#070616;
 	font-family: georgian;
-	font-style: bold;
 }
 
 .ans {
 	color:#0c0c19;
 	font-family: georgian;
-	font-style: bold;
 	font-size: 20px;
 }
 
 table{
-	 width: 70%;
+	width: 70%;
 	border:1px solid black;
 	border-collapse: collapse;
 }
