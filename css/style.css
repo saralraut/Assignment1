@@ -47,11 +47,17 @@
 	text-align: center;
 }
 .foot{
-	
+	background-color:rgb(213, 223, 239);
 	border:solid;
 	font-size: 30px;
 	padding: 20px;
 	color:rgb(6, 13, 25);
+}
+
+.media{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
 
 .fa {
@@ -87,6 +93,7 @@
 
 .review {
 	border:solid;
+	background-color: rgb(162, 183, 219);
 }
 
 .review1 h1{
@@ -100,6 +107,7 @@
 .review1 p{
 	color: #232226;
    font-size: 70%;
+  
 	
 
 
@@ -119,6 +127,7 @@
 
 .tutorials {
 	border:solid;
+	background-color: rgb(162, 183, 219);
 }
 
 .tuts{
@@ -133,6 +142,11 @@
 	color: #130626;
 	font-size: 20px;
 }
+.Jody{
+	background-color: rgb(162, 183, 219);
+	border: solid;
+	border-color: black;
+}
 
 .jobimage{
 	max-height: 100%;
@@ -142,12 +156,6 @@
 	align-items: right;
 
 }
-
-/*.diff p {
-
-	color: #130626;
-	font-size: 20px;
-} */
 
 .main {
 	color: #bf8376
