@@ -189,3 +189,21 @@ td {
 	border:1px solid black;
 	border-collapse: collapse;
 }
+/*source code = https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery*/
+@media only screen and (max-width: 700px) {
+  body {
+    background-color: yellow;
+  }
+}
+/*https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery_breakpoints*/
+@media only screen and (min-width: 700px) {
+  body {
+  	background: green;
+ }
+}
+/*https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery_breakpoints*/
+@media only screen and (min-width: 880px) {
+  body {
+  	background: white;
+ }
+}
